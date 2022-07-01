@@ -14,4 +14,4 @@ systemctl restart smartdns
 bash /etc/smartdns/update.sh
 
 # 感谢
-Loyalsoldier/v2ray-rules-dat  （https://github.com/Loyalsoldier/v2ray-rules-dat）
+Loyalsoldier/v2ray-rules-dat   https://github.com/Loyalsoldier/v2ray-rules-dat
