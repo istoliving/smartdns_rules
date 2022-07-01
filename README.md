@@ -10,7 +10,7 @@ smartdns使用Loyalsoldier/v2ray-rules-dat规则分流查询
 2. 重启 smartdns   
 systemctl restart smartdns   
 
-3. 更新规则   
+更新规则   
 bash /etc/smartdns/update.sh
 
 # 感谢
